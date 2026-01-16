@@ -1,0 +1,5 @@
+names:
+  0: pistol
+path: C:\Users\patel\Desktop\old\vr\backend\dataset\yolo_data
+train: images/train
+val: images/val
